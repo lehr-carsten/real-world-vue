@@ -1,4 +1,5 @@
-[
+{
+  "specialconditions": [
     {
       "grus": "004356099829",
       "mitarbeiterVorteil": "1",
@@ -17,4 +18,5 @@
       "magenta1Vorteil": "N",
       "accountId": "8347395881"
     }
-]
+  ]
+}
